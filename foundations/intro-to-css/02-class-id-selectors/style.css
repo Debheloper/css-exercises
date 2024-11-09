@@ -1,0 +1,26 @@
+.adjust-font-size {
+    font-size: 24px;
+}
+
+#four {
+    background-color: rgb(17, 145, 17);
+    font-weight: bold;
+}
+
+#two {
+    color:blue;
+    font-size: 36px;
+}
+
+
+
+p {
+    background-color: pink;
+    font-family: 'Verdana', DejaVu Sans, sans-serif;
+}
+
+
+
+
+
+
